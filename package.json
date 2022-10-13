@@ -1,0 +1,22 @@
+{
+  "name": "mern-ecommerce",
+  "version": "1.0.0",
+  "description": "MERN carro de compras",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoelBuenrostro/MERN-eCommerce.git"
+  },
+  "author": "Joel Buenrostro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoelBuenrostro/MERN-eCommerce/issues"
+  },
+  "homepage": "https://github.com/JoelBuenrostro/MERN-eCommerce#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
